@@ -1,0 +1,6 @@
+Name  = Satyam Tamrakar
+Class    = 12 'A'
+Rollno  = 15
+Subject = Computer Science With C++
+School  = BARDSLEY Eng. Med. Sr. Sec. School Katni (M.P.)
+                  
